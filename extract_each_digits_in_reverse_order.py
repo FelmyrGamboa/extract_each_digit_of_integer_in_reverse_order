@@ -5,7 +5,10 @@
 given_number = 7536
 
 #Create a loop with a certain condition to stop
-#Reverse the integer by dividing it by 10 and getting the remainder
+while given_number != 0:
+#Reverse the digits of integer by dividing it by 10 and getting the remainder
+    reverse_digit = given_number % 10
 #Assign the quotient as the new integer to be divided
+    given_number //= 10
 #Display the result with spaces 
 
