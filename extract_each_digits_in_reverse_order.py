@@ -2,6 +2,7 @@
 # For example, If the given int is 7536, the output shall be “6 3 5 7“, with a space separating the digits.
 
 #Create a variable containing the integer
+given_number = 7536
 
 #Create a loop with a certain condition to stop
 #Reverse the integer by dividing it by 10 and getting the remainder
