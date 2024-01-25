@@ -11,4 +11,4 @@ while given_number != 0:
 #Assign the quotient as the new integer to be divided
     given_number //= 10
 #Display the result with spaces 
-
+    print(reverse_digit, end=" ")
